@@ -1,0 +1,6 @@
+{
+  "name": "خان بابایی",
+  "description": "فروشگاه تخصصی میوه خان بابایی - فروش میوه کیلویی، سفارشات مجلسی، تره‌بار و پک‌های تشریفاتی VIP در بریانک تهران",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
